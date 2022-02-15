@@ -1,4 +1,4 @@
-# LLVMGenerageGraph
+# LLVMGenerageGraphCMD
 
 - sudo apt-get install -y graphviz-doc libgraphviz-dev graphviz
 - clang -S -emit-llvm main.cpp -o main.ll
